@@ -18,7 +18,7 @@ h2 {
   margin: 0 auto 20px;
   padding: 8px 12px;
   background-color:skyblue;
-  font-size: 2.35em;
+  font-size: 1.35em;
   font-family: serif;
   
 }
